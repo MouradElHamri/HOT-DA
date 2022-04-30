@@ -1,0 +1,4 @@
+Office-Caltech dataset is too voluminous to be uploaded on Github (some files are larger than GitHub's recommended maximum file size of 50.00 MB). Please download it from the following link:
+
+Office-Caltech: https://mega.nz/folder/A983DYiB#j3po3gRqIuycsJAGn5vBww
+
