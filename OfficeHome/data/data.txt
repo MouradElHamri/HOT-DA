@@ -1,0 +1,3 @@
+● OfficeHome dataset is too voluminous to be uploaded on Github (some files are larger than GitHub's recommended maximum file size of 50.00 MB). Please download it from the following link:
+
+OfficeHome: https://mega.nz/folder/pGIkjIxC#MDD3ps6RzTXWobMfHh0Slw
